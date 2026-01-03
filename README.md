@@ -3,20 +3,6 @@
 HoroLogica is an online retailer for luxurios and premium swiss watches. This retailer had a vision in mind, to create a shopping experience
 for watches where the location or visiting a store isnt necessary
 
-## Getting Started
-
-To run the application on your machine and do some code overview:
-
-1. Ensure you have Visual Studio installed.
-2. Within it install WPF and the .Net 8.0 FrameWork (Latest stable framework).
-3. Make sure you have Microsoft SQL Server Management Studio installed to manage data within a database.
-4. Clone or download the [HoroLogica_E-Commerce_App] (https://github.com/MQZakir/HoroLogica_E-Commerce_App) on your machine.
-5. Open the solution file in Visual Studio (will be labeled as a .sln file).
-6. Set up the database connection in SQL Server Management Studio
-   (View -> Server Explorer, Add Database Connection -> Microsoft SQL Server).
-7. Build the solution and run the project in Visual Studio.
-
-
 ## Application Overview
 
 ### Home Page
